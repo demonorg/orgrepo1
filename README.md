@@ -126,3 +126,4 @@ function assume-role { eval $( $(which assume-role) $@); }
 * [ ] Cache credentials.
 
 Test
+test2
