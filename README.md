@@ -60,3 +60,5 @@ export AWS_SECURITY_TOKEN="AQ...1BQ=="
 ## TODO
 
 * [ ] Cache credentials.
+
+Test
